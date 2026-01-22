@@ -1,0 +1,12 @@
+{
+  "name": "GoFar",
+  "symbol": "GOFAR",
+  "description": "GoFar is the community token powering Delvx — a live crypto social chat where strangers talk publicly, tip each other on-chain, host giveaways, and interact with AI agents. Built as an open experiment for crypto-native communities.",
+  "image": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/gofar.png",
+  "external_url": "https://delvx.app",
+  "attributes": [
+    { "trait_type": "Utility", "value": "Tipping & Giveaways" },
+    { "trait_type": "Platform", "value": "Delvx" },
+    { "trait_type": "Network", "value": "Solana Devnet" }
+  ]
+}
